@@ -1,1 +1,2 @@
-# leetcode_solutions
+# Leetcode Türkçe Çözümler
+leetcode çözüyom türkçe buraya yüklüyom
