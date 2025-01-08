@@ -12,4 +12,4 @@ leetcode çözüyom türkçe buraya yüklüyom
 7 Ocak | [1408. String Matching in an Array](https://leetcode.com/problems/string-matching-in-an-array/description) | [Python](https://github.com/bakabakashiii/leetcode_solutions_tr/blob/main/1408.%20String%20Matching%20in%20an%20Array.py) | _O(m²n²)_ ¹ | _O(mn)_ | Easy | 
 8 Ocak | [3042. Count Prefix and Suffix Pairs I](https://leetcode.com/problems/count-prefix-and-suffix-pairs-i/description) | [Python](https://github.com/bakabakashiii/leetcode_solutions_tr/blob/main/3042.%20Count%20Prefix%20and%20Suffix%20Pairs%20I.py) | _O(n²m)_ ¹ | _O(1)_ | Easy | 
 
-¹ Complexity büyük görünebilir fakat problem kısıtlamalarına uygun şekilde TLE vermeden %71 başarı
+¹ Complexity büyük görünebilir fakat problem kısıtlamalarına uygun şekilde TLE vermeden yüksek başarı yüzdesi
