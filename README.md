@@ -12,5 +12,6 @@ leetcode çözüyom türkçe buraya yüklüyom
 7 Ocak | [1408. String Matching in an Array](https://leetcode.com/problems/string-matching-in-an-array/description) | [Python](https://github.com/bakabakashiii/leetcode_solutions_tr/blob/main/python/1408.%20String%20Matching%20in%20an%20Array.py) | _O(m²n²)_ ¹ | _O(mn)_ | Easy | 
 8 Ocak | [3042. Count Prefix and Suffix Pairs I](https://leetcode.com/problems/count-prefix-and-suffix-pairs-i/description) | [Python](https://github.com/bakabakashiii/leetcode_solutions_tr/blob/main/python/3042.%20Count%20Prefix%20and%20Suffix%20Pairs%20I.py) | _O(n²m)_ ¹ | _O(1)_ | Easy | 
 9 Ocak | [2185. Counting Words With a Given Prefix](https://leetcode.com/problems/counting-words-with-a-given-prefix/description/) | [Python](https://github.com/bakabakashiii/leetcode_solutions_tr/blob/main/python/2185.%20Counting%20Words%20With%20a%20Given%20Prefix.py) | _O(nm)_ | _O(1)_ | Easy | 
+10 Ocak | [916. Word Subsets](https://leetcode.com/problems/word-subsets/description/) | [Python](https://github.com/bakabakashiii/leetcode_solutions_tr/blob/main/python/916.%20Word%20Subsets.py) | _O(nm)_ | _O(n)_ | Medium | 
 
 ¹ Complexity büyük görünebilir fakat problem kısıtlamalarına uygun şekilde TLE vermeden yüksek başarı yüzdesi
