@@ -13,6 +13,6 @@ leetcode çözüyom türkçe buraya yüklüyom
 8 Ocak | [3042. Count Prefix and Suffix Pairs I](https://leetcode.com/problems/count-prefix-and-suffix-pairs-i/description) | [Python](https://github.com/bakabakashiii/leetcode_solutions_tr/blob/main/python/3042.%20Count%20Prefix%20and%20Suffix%20Pairs%20I.py) | _O(n²m)_ ¹ | _O(1)_ | Easy | 
 9 Ocak | [2185. Counting Words With a Given Prefix](https://leetcode.com/problems/counting-words-with-a-given-prefix/description/) | [Python](https://github.com/bakabakashiii/leetcode_solutions_tr/blob/main/python/2185.%20Counting%20Words%20With%20a%20Given%20Prefix.py) | _O(nm)_ | _O(1)_ | Easy | 
 10 Ocak | [916. Word Subsets](https://leetcode.com/problems/word-subsets/description/) | [Python](https://github.com/bakabakashiii/leetcode_solutions_tr/blob/main/python/916.%20Word%20Subsets.py) | _O(nm)_ | _O(n)_ | Medium | 
-11 Ocak | [1400. Construct K Palindrome Strings](https://leetcode.com/problems/construct-k-palindrome-strings/description) | [Python](https://github.com/bakabakashiii/leetcode_solutions_tr/blob/main/python/1400.%20Construct%20K%20Palindrome%20Strings.py) | _O(nm)_ | _O(n)_ | Medium | 
+11 Ocak | [1400. Construct K Palindrome Strings](https://leetcode.com/problems/construct-k-palindrome-strings/description) | [Python](https://github.com/bakabakashiii/leetcode_solutions_tr/blob/main/python/1400.%20Construct%20K%20Palindrome%20Strings.py) | _O(n)_ | _O(n)_ | Medium | 
 
 ¹ Complexity büyük görünebilir fakat problem kısıtlamalarına uygun şekilde TLE vermeden yüksek başarı yüzdesi
