@@ -2,6 +2,8 @@ class Solution:
     def canBeValid(self, s: str, locked: str) -> bool:
         if len(s) % 2 != 0:
             return False
+        if (locked[0] == "1" and s[0] == ")") or (locked[-1] == "1" and s[-1] == "("):
+            return False 
 
         curLeft = 0
         curRight = 0
