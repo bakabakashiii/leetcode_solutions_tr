@@ -15,5 +15,6 @@ leetcode çözüyom türkçe buraya yüklüyom
 10 Ocak | [916. Word Subsets](https://leetcode.com/problems/word-subsets/description/) | [Python](https://github.com/bakabakashiii/leetcode_solutions_tr/blob/main/python/916.%20Word%20Subsets.py) | _O(nm)_ | _O(n)_ | Medium | 
 11 Ocak | [1400. Construct K Palindrome Strings](https://leetcode.com/problems/construct-k-palindrome-strings/description) | [Python](https://github.com/bakabakashiii/leetcode_solutions_tr/blob/main/python/1400.%20Construct%20K%20Palindrome%20Strings.py) | _O(n)_ | _O(n)_ | Medium | 
 12 Ocak | [2116. Check if a Parentheses String Can Be Valid](https://leetcode.com/problems/check-if-a-parentheses-string-can-be-valid/description) | [Python](https://github.com/bakabakashiii/leetcode_solutions_tr/blob/main/python/2116.%20Check%20if%20a%20Parentheses%20String%20Can%20Be%20Valid.py) | _O(n)_ | _O(1)_ | Medium | 
+12 Ocak | [3223. Minimum Length of String After Operations](https://leetcode.com/problems/minimum-length-of-string-after-operations/description/) | [Python](https://github.com/bakabakashiii/leetcode_solutions_tr/blob/main/python/3223.%20Minimum%20Length%20of%20String%20After%20Operations.py) | _O(n)_ | _O(1)_ | Medium | 
 
 ¹ Complexity büyük görünebilir fakat problem kısıtlamalarına uygun şekilde TLE vermeden yüksek başarı yüzdesi
