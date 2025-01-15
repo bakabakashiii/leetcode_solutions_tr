@@ -17,5 +17,6 @@ leetcode çözüyom türkçe buraya yüklüyom
 12 Ocak | [2116. Check if a Parentheses String Can Be Valid](https://leetcode.com/problems/check-if-a-parentheses-string-can-be-valid/description) | [Python](https://github.com/bakabakashiii/leetcode_solutions_tr/blob/main/python/2116.%20Check%20if%20a%20Parentheses%20String%20Can%20Be%20Valid.py) | _O(n)_ | _O(1)_ | Medium | 
 13 Ocak | [3223. Minimum Length of String After Operations](https://leetcode.com/problems/minimum-length-of-string-after-operations/description/) | [Python](https://github.com/bakabakashiii/leetcode_solutions_tr/blob/main/python/3223.%20Minimum%20Length%20of%20String%20After%20Operations.py) | _O(n)_ | _O(1)_ | Medium | 
 14 Ocak | [2657. Find the Prefix Common Array of Two Arrays](https://leetcode.com/problems/find-the-prefix-common-array-of-two-arrays/description/) | [Python](https://github.com/bakabakashiii/leetcode_solutions_tr/blob/main/python/2657.%20Find%20the%20Prefix%20Common%20Array%20of%20Two%20Arrays.py) | _O(n)_ | _O(n)_ | Medium | 
+15 Ocak | [2429. Minimize XOR](https://leetcode.com/problems/minimize-xor/description/) | [Python](https://github.com/bakabakashiii/leetcode_solutions_tr/blob/main/python/2429.%20Minimize%20XOR.py) | _O(log(n))_ | _O(1)_ | Medium | 
 
 ¹ Complexity büyük görünebilir fakat problem kısıtlamalarına uygun şekilde TLE vermeden yüksek başarı yüzdesi
