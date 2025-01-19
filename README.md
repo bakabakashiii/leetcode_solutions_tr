@@ -19,5 +19,6 @@ leetcode çözüyom türkçe buraya yüklüyom
 14 Ocak | [2657. Find the Prefix Common Array of Two Arrays](https://leetcode.com/problems/find-the-prefix-common-array-of-two-arrays/description/) | [Python](https://github.com/bakabakashiii/leetcode_solutions_tr/blob/main/python/2657.%20Find%20the%20Prefix%20Common%20Array%20of%20Two%20Arrays.py) | _O(n)_ | _O(n)_ | Medium | 
 15 Ocak | [2429. Minimize XOR](https://leetcode.com/problems/minimize-xor/description/) | [Python](https://github.com/bakabakashiii/leetcode_solutions_tr/blob/main/python/2429.%20Minimize%20XOR.py) | _O(log(n))_ | _O(1)_ | Medium | 
 16 Ocak | [2425. Bitwise XOR of All Pairings](https://leetcode.com/problems/bitwise-xor-of-all-pairings/description/) | [Python](https://github.com/bakabakashiii/leetcode_solutions_tr/blob/main/python/2425.%20Bitwise%20XOR%20of%20All%20Pairings.py) | _O(n+m)_ | _O(1)_ | Medium | 
+17 Ocak | [2683. Neighboring Bitwise XOR](https://leetcode.com/problems/neighboring-bitwise-xor/description) | [Python](https://github.com/bakabakashiii/leetcode_solutions_tr/blob/main/python/2683.%20Neighboring%20Bitwise%20XOR.py) | _O(n)_ | _O(1)_ | Medium | 
 
 ¹ Complexity büyük görünebilir fakat problem kısıtlamalarına uygun şekilde TLE vermeden yüksek başarı yüzdesi
