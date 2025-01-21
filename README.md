@@ -23,5 +23,6 @@ leetcode çözüyom türkçe buraya yüklüyom
 18 Ocak | [1368. Minimum Cost to Make at Least One Valid Path in a Grid](https://leetcode.com/problems/minimum-cost-to-make-at-least-one-valid-path-in-a-grid/description) | [Python](https://github.com/bakabakashiii/leetcode_solutions_tr/blob/main/python/1368.%20Minimum%20Cost%20to%20Make%20at%20Least%20One%20Valid%20Path%20in%20a%20Grid.py) | _O(nm)_ | _O(nm)_ | Hard | 
 19 Ocak | [407. Trapping Rain Water II](https://leetcode.com/problems/trapping-rain-water-ii/description/) | [Python](https://github.com/bakabakashiii/leetcode_solutions_tr/blob/main/python/407.%20Trapping%20Rain%20Water%20II.py) | _O(mn×logmn)_ | _O(mn)_ | Hard | 
 20 Ocak | [2661. First Completely Painted Row or Column](https://leetcode.com/problems/first-completely-painted-row-or-column/description/) | [Python](https://github.com/bakabakashiii/leetcode_solutions_tr/blob/main/python/2661.%20First%20Completely%20Painted%20Row%20or%20Column.py) | _O(mn)_ | _O(mn)_ | Medium | 
+21 Ocak | [2017. Grid Game](https://leetcode.com/problems/grid-game/description/) | [Python](https://github.com/bakabakashiii/leetcode_solutions_tr/blob/main/python/2017.%20Grid%20Game.py) | _O(n)_ | _O(1)_ | Medium | 
 
 ¹ Complexity büyük görünebilir fakat problem kısıtlamalarına uygun şekilde TLE vermeden yüksek başarı yüzdesi
