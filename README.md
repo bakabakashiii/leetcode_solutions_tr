@@ -25,5 +25,6 @@ leetcode çözüyom türkçe buraya yüklüyom
 20 Ocak | [2661. First Completely Painted Row or Column](https://leetcode.com/problems/first-completely-painted-row-or-column/description/) | [Python](https://github.com/bakabakashiii/leetcode_solutions_tr/blob/main/python/2661.%20First%20Completely%20Painted%20Row%20or%20Column.py) | _O(mn)_ | _O(mn)_ | Medium | 
 21 Ocak | [2017. Grid Game](https://leetcode.com/problems/grid-game/description/) | [Python](https://github.com/bakabakashiii/leetcode_solutions_tr/blob/main/python/2017.%20Grid%20Game.py) | _O(n)_ | _O(1)_ | Medium | 
 22 Ocak | [1765. Map of Highest Peak](https://leetcode.com/problems/map-of-highest-peak/description/) | [Python](https://github.com/bakabakashiii/leetcode_solutions_tr/blob/main/python/1765.%20Map%20of%20Highest%20Peak.py) | _O(mn)_ | _O(mn)_ | Medium | 
+23 Ocak | [1267. Count Servers that Communicate](https://leetcode.com/problems/count-servers-that-communicate/description/) | [Python](https://github.com/bakabakashiii/leetcode_solutions_tr/blob/main/python/1267.%20Count%20Servers%20that%20Communicate.py) | _O(mn)_ | _O(m+n)_ | Medium | 
 
 ¹ Complexity büyük görünebilir fakat problem kısıtlamalarına uygun şekilde TLE vermeden yüksek başarı yüzdesi
